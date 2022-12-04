@@ -11,14 +11,16 @@ The purpose of the first part of this project was to determine how the launch da
 ### Analysis of Outcomes Based on Launch Date
 
 For this analysis I first created a pivot table using all of the Kickstarter data. I then filtered the data based on years and parent category, and specifically on theatre. I then created my rows based on the date created conversion data on the months and both my columns and values were the outcome data. I then filtered out the live projects and sorted the data on the successful column in descending order. I then created a line graph showing the theatre outcomes based on launch date, which can be found as a .png file. 
-/Users/sandymo/Desktop/Data Bootcamp/Module 1 (Excel)/Assignment/Resources/Analysis_1.png
-/Users/sandymo/Desktop/Data Bootcamp/Module 1 (Excel)/Assignment/Resources/Theater_Outcomes_vs_Launch.png
+
 
 ### Analysis of Outcomes Based on Goals
 
 For this analysis I used the countifs function in excel to count the number of successful, failed and cancelled projects based on a funding goal range of <1000, between 1000 and 4999 and so on up to greater than 50000. I then found the sum of each row to determine the percent successful, percent failed and percent cancelled. This data was then graphed with the x axis as the funding goal ranges and the y axis as percentages for each outcome.
-/Users/sandymo/Desktop/Data Bootcamp/Module 1 (Excel)/Assignment/Resources/Analysis_2.png
-/Users/sandymo/Desktop/Data Bootcamp/Module 1 (Excel)/Assignment/Resources/Outcomes_vs_Goals.png
+
+
+![Image](Analysis_3.png)
+
+
 
 ### Challenges and Difficulties Encountered
 
